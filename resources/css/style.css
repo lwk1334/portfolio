@@ -1,0 +1,12 @@
+.container {
+    max-width: 100%;
+    margin: auto;
+    background: var(--eerie-black-dark);
+    overflow: hidden;
+  }
+
+.container .img-box{
+  width: 100%;
+  margin-bottom: 30px;
+
+}
